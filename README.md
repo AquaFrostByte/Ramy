@@ -1,5 +1,6 @@
-Numpy V3.0.1
+RAMY V3.0.1
 
+Its called RAMY now Numpy was temporary
  Use V2 For Trolling friends and V3 for real use 
                                                                      
                                                                           
